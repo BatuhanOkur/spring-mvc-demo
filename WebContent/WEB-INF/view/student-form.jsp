@@ -36,7 +36,13 @@
 		Python <form:radiobutton path="favoriteLanguage" value="Python"/>
 		C++ <form:radiobutton path="favoriteLanguage" value="C++"/>
 		
+		<br><br>
 		
+		Operating Systems:
+		
+		MS Windows <form:checkbox path="operatingSystems" value="MS Windows"/>
+		Mac OS <form:checkbox path="operatingSystems" value="Mac OS"/>
+		Linux <form:checkbox path="operatingSystems" value="Linux"/>
 		
 		<br><br>
 		
